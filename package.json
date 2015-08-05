@@ -1,0 +1,15 @@
+{
+  "name": "web-rtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^4.1.0",
+    "simple-peer": "^5.11.4"
+  }
+}
